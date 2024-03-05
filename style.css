@@ -8,8 +8,8 @@ body {
     color: greenyellow;
 }
 
-*::selected {
-    color: lightgreen;
+::selection {
+    background-color: green;
 }
 
 .heading {
